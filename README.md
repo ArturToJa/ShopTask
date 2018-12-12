@@ -23,7 +23,7 @@ Once Scanning is done, you can GetTotal price of all scanned items. All items wh
 
 Example usage:
 
-  // set up some ShopItems
+ 	 // set up some ShopItems
 	ShopItem itemA(1, 50, 3, 130);
 	ShopItem itemB(2, 30, 2, 45);
 	ShopItem itemC(3, 20);
